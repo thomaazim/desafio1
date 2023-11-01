@@ -1,0 +1,165 @@
+*{
+   
+    font-family: Inter;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#titulo-principal{
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px; /* 120% */
+    letter-spacing: -1.5px;
+}
+
+#texto-principal{
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+}
+
+
+#menusuperior{
+   background-color: #303030 ;   
+   color: #FFFFFF;
+   padding-left: 50px;
+   padding-top: 150px;
+   padding-bottom: 100px;
+   
+}
+
+#menuinformacional{
+    background-color: #F9F9F9;
+    color: #FFFFFF;
+    padding-top: 10px;
+    display: grid;
+    grid-auto-flow: column;
+    padding-bottom: 50px;
+
+
+}
+
+#titulo1informacao{
+    background-color: #F9F9F9;
+    color: black;
+    margin-top: 54px;
+    margin-left: 62px;
+    
+}
+
+#texto1informativo{
+    background-color: #F9F9F9;
+    color: black;
+    margin-left: 62px;
+    
+}
+
+#titulo2informacao{
+    background-color: #F9F9F9;
+    color: black;
+    margin-top: 54px;
+    margin-left: 62px; 
+}
+
+#texto2informativo{
+    background-color: #F9F9F9;
+    color: black;
+    margin-left: 62px; 
+}
+
+#titulo3informacao{
+    background-color: #F9F9F9;
+    color: black;
+    margin-top: 54px;
+    margin-left: 62px; 
+}
+
+#texto3informativo{
+    background-color: #F9F9F9;
+    color: black;
+    margin-left: 62px; 
+}
+
+#fotoarquitetura{
+    margin-left: 50px;
+    height: 605px;
+    width: 510px;
+    border-radius: 30px;
+    
+}
+
+
+#infosecundaria{
+    display: grid;
+    grid-auto-flow: column;
+    margin-left: 50px;
+    margin-bottom: 92px;
+    margin-top: 82px;
+    
+}
+
+#textopage{
+    margin-top: 25px ;
+    font-size: 20px;
+    
+}
+#titulopage{
+    padding-top: 204px;
+}
+
+#formulario{
+    background: #303030;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+#titulocoleta{
+    color: rgba (0, 0, 0, 0.30);
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 48px */
+    padding-top: 80px;
+    margin-bottom: 40px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    padding-left: 15px;
+    margin: 15px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px
+    
+
+}
+button{
+    width: 286px;
+    height: 74px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #C07212;
+    color: #FFF; 
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; 
+    margin-top: 58px;
+    margin-bottom: 87px;
+}
+
+
+
